@@ -13,4 +13,4 @@ Design token setup for a typographic scale using standard ratios:
 
 Custom ratios can be edited or added.
 
-[Accompanying Figma file](https://www.figma.com/file/9y0QQlHD6jyNV4mI4gpCNu/Design-token-ratios)
+[Accompanying Figma file](https://www.figma.com/file/9y0QQlHD6jyNV4mI4gpCNu/Design-token-ratios).
